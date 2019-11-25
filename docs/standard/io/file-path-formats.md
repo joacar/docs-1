@@ -2,9 +2,6 @@
 title: "File path formats on Windows systems"
 ms.date: "06/06/2019"
 ms.technology: dotnet-standard
-dev_langs: 
-  - "csharp"
-  - "vb"
 helpviewer_keywords: 
   - "I/O, long paths"
   - "long paths"

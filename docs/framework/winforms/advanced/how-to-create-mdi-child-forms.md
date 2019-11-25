@@ -1,10 +1,6 @@
 ---
 title: "How to: Create MDI Child Forms"
 ms.date: "03/30/2017"
-dev_langs:
-  - "csharp"
-  - "vb"
-  - "cpp"
 helpviewer_keywords:
   - "MDI [Windows Forms], creating forms"
   - "child forms"

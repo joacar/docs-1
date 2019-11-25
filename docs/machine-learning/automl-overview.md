@@ -1,7 +1,6 @@
 ---
 title: Automated machine learning with ML.NET
 description: Overview of automatic model selection and training
-author: natke
 ms.date: 05/01/2019
 ms.topic: overview
 ms.custom: mvc
